@@ -3,14 +3,14 @@
 Generating screenshots of URL at various device widths, using Puppeteer.
 
 Current widths - 
-	2560, 	// large 27" cinema displays
-	1920, 	// large desktop
-	1600, 	// desktop
-	1280, 	// laptop
-	1024, 	// tablet-landscape
-	768, 	// tablet-portrait
-	480, 	// smartphone-landscape
-	320 	// smartphone-portrait
+*2560 	// large 27" cinema displays
+*1920 	// large desktop
+*1600 	// desktop
+*1280 	// laptop
+*1024 	// tablet-landscape
+*768 	// tablet-portrait
+*480 	// smartphone-landscape
+*320 	// smartphone-portrait
 
 ## Getting Started
 
